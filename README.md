@@ -39,6 +39,7 @@ A collection of container related security resources
 * [Docker bench security](https://github.com/diogomonica/docker-bench-security) - One of the first security linting utility for Docker
 
 ### [Buildah](https://github.com/projectatomic/buildah)
+* [Introduction](http://www.projectatomic.io/blog/2017/06/introducing-buildah/)
 * Docker image building framework
 
 ### [Packer](https://www.packer.io/docs/builders/docker.html)
@@ -50,7 +51,14 @@ A collection of container related security resources
 ### [Grafeas](https://github.com/Grafeas/Grafeas)
 * An open-source API to audit and govern your software supply chain
 
-### Commercial vulnerability scanners
+### [Atomic Reactor](https://github.com/projectatomic/atomic-reactor)
+* Python library that extends docker build. It's part of the RedHat Atomic project so its rather opinionated
+
+### [Containers Internals Lab](https://github.com/fatherlinux/container-internals-lab)
+* A series of exercises that provide a deep dive into the internals of containers. Also has a good SELinux training component
+
+### Commercial solutions
+* [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Black Duck Software](https://www.blackducksoftware.com/)
 * [Docker Cloud](https://cloud.docker.com)
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security)
@@ -99,6 +107,10 @@ A collection of container related security resources
 ### [bane](https://github.com/jessfraz/bane)
 * AppAromor profile generator for Docker containers
 
+### [Container security as explained by the three pigs](https://www.youtube.com/watch?v=giFKMsIH4b0)
+*
+* [The Container Coloring Book](https://github.com/fedoradesign/coloringbook-containers/blob/master/Print-Ready/Web.pdf)
+
 ### [SELinux for Mere Mortals](https://www.youtube.com/watch?v=cNoVgDqqJmM)
 * A gentle introduction to Security Enhanced Linux
 
@@ -136,7 +148,7 @@ A collection of container related security resources
 ## Presentations
 
 ------------------------------------------------------------------------------------------
-### [Container security as explained by the three pigs](https://www.youtube.com/watch?v=giFKMsIH4b0)
+
 ### [Introduction to Container Security](https://www.youtube.com/watch?v=ABFmXCGJlo8)
 ### [GoDaddy's Production Kubernetes Story & Moving Target Defense in Container Envs](https://www.youtube.com/watch?v=2nisq0stz-s)
 ### [Container Security Round Table](https://www.youtube.com/watch?v=eY0wIj7lsEw)
@@ -152,4 +164,4 @@ A collection of container related security resources
 * [Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b) - Also provides insight into container monitoring, logging, and security at Netflix.
 ### [Docker Networking in Production at Visa](https://www.youtube.com/watch?v=k3SeQPt0f0o)
 * Chief Systems Architect Sasi Kannappan describes how Docker is used at Visa
-## [The Golden Ticket- Docker and High Security Microservices - Black Belt Track](https://www.youtube.com/watch?v=346WmxQ5xtk)
+### [The Golden Ticket- Docker and High Security Microservices - Black Belt Track](https://www.youtube.com/watch?v=346WmxQ5xtk)
