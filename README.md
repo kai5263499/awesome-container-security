@@ -44,10 +44,17 @@ A collection of container related security resources
 ### [Packer](https://www.packer.io/docs/builders/docker.html)
 * Packer builds Docker containers without the use of Dockerfiles. By not using Dockerfiles, Packer is able to provision containers with portable scripts or configuration management systems that are not tied to Docker in any way. It also has a simple mental model: you provision containers much the same way you provision a normal virtualized or dedicated server.
 
+### [LinuxKit](https://github.com/linuxkit/linuxkit)
+* A toolkit for building custom minimal, immutable Linux distributions
+
+### [Grafeas](https://github.com/Grafeas/Grafeas)
+* An open-source API to audit and govern your software supply chain
+
 ### Commercial vulnerability scanners
 * [Black Duck Software](https://www.blackducksoftware.com/)
 * [Docker Cloud](https://cloud.docker.com)
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security)
+* [GrSecurity](https://grsecurity.net/features.php) - A collection of image hardening tools
 
 ------------------------------------------------------------------------------------------
 
@@ -81,6 +88,7 @@ A collection of container related security resources
 
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/product/) - Container security solution with adaptive threat protection
+* [Netsil](https://netsil.com/) - Operations dashboard for Kubernetes
 
 ------------------------------------------------------------------------------------------
 
@@ -98,6 +106,12 @@ A collection of container related security resources
 
 ### [Firejail](https://github.com/netblue30/firejail)
 * Linux namespaces and seccomp-bpf sandbox. Also works with GUI apps
+
+### [Docker SELinux Capabilities reference](https://docs.docker.com/engine/reference/run/#runtime-privilege-and-linux-capabilities)
+* A handy list of capabilities that are enabled by default in Docker
+
+### [Detailed post about SELinux Capabilities](https://forums.grsecurity.net/viewtopic.php?f=7&t=2522)
+* An SELinux deep dive
 
 ------------------------------------------------------------------------------------------
 
