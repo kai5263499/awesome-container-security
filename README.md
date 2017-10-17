@@ -125,6 +125,12 @@ A collection of container related security resources
 ### [Detailed post about SELinux Capabilities](https://forums.grsecurity.net/viewtopic.php?f=7&t=2522)
 * An SELinux deep dive
 
+### [What capabilities do I really need in my container?](https://danwalsh.livejournal.com/76358.html)
+* Blog post about figuring out what capabilities a container needs
+
+### [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
+* Spoiler, its using SELinux
+
 ------------------------------------------------------------------------------------------
 
 ## Exploits
