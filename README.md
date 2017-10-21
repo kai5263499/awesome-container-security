@@ -165,6 +165,9 @@ A collection of container related security resources
 ### [Three Overlooked Lessons about Container Security](https://thenewstack.io/three-overlooked-lessons-container-security/)
 * Outlines an interesting spear-phishing attack on image maintainers
 
+### [Don't expose the Docker socket ](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
+* Exploration of what an attacker could do with access to the Docker daemon
+
 ------------------------------------------------------------------------------------------
 
 ## Presentations
