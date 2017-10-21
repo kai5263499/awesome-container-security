@@ -105,6 +105,7 @@ A collection of container related security resources
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/product/) - Container security solution with adaptive threat protection
 * [Netsil](https://netsil.com/) - Operations dashboard for Kubernetes
+* [NeuVector](https://neuvector.com/) - Continuous network security
 
 ------------------------------------------------------------------------------------------
 
