@@ -67,6 +67,7 @@ A collection of container related security resources
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.co.uk/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
 * [GrSecurity](https://grsecurity.net/features.php) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
+* [LayeredInsight](http://layeredinsight.com/) - Continuous container scanning
 
 ------------------------------------------------------------------------------------------
 
