@@ -57,11 +57,14 @@ A collection of container related security resources
 ### [Containers Internals Lab](https://github.com/fatherlinux/container-internals-lab)
 * A series of exercises that provide a deep dive into the internals of containers. Also has a good SELinux training component
 
+### [Anchore](https://anchore.io/)
+* Free image scanning service with a commercial offering similar to Docker Cloud
+
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Black Duck Software](https://www.blackducksoftware.com/)
 * [Docker Cloud](https://cloud.docker.com) - Continuous scanning of images along with a trust mechanism
-* [Tenable](https://www.tenable.com/products/tenable-io/container-security)
+* [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.co.uk/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
 * [GrSecurity](https://grsecurity.net/features.php) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
 
