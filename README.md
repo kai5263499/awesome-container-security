@@ -60,9 +60,10 @@ A collection of container related security resources
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Black Duck Software](https://www.blackducksoftware.com/)
-* [Docker Cloud](https://cloud.docker.com)
+* [Docker Cloud](https://cloud.docker.com) - Continuous scanning of images along with a trust mechanism
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security)
 * [GrSecurity](https://grsecurity.net/features.php) - A collection of image hardening tools
+* [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
 
 ------------------------------------------------------------------------------------------
 
