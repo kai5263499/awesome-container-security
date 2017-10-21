@@ -60,6 +60,9 @@ A collection of container related security resources
 ### [Anchore](https://anchore.io/)
 * Free image scanning service with a commercial offering similar to Docker Cloud
 
+### [Alpine CVE Check](https://github.com/tomwillfixit/alpine-cvecheck)
+* Specialized CVE scanner
+
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Black Duck Software](https://www.blackducksoftware.com/)
