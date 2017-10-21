@@ -103,7 +103,7 @@ A collection of container related security resources
 * Research paper on a practical implementation of segment routing in a container cluster
 
 ### [Whispers in the Hyper-space: High-speed Covert Channel Attacks in the Cloud](https://www.youtube.com/watch?v=d2TU_Q4U9DA)
-* An exploration of covert channels, this appears to be related to the paper,  [Whispers between the Containers: High-Capacity Covert Channel Attacks in Docker](https://www.researchgate.net/publication/313540386_Whispers_between_the_Containers_High-Capacity_Covert_Channel_Attacks_in_Docker)
+* An exploration of covert channels
 
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/product/) - Container security solution with adaptive threat protection
