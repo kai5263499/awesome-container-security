@@ -190,3 +190,5 @@ A collection of container related security resources
 ### [Docker Networking in Production at Visa](https://www.youtube.com/watch?v=k3SeQPt0f0o)
 * Chief Systems Architect Sasi Kannappan describes how Docker is used at Visa
 ### [The Golden Ticket- Docker and High Security Microservices - Black Belt Track](https://www.youtube.com/watch?v=346WmxQ5xtk)
+### [Docker Engine Security Cheatsheet](https://github.com/konstruktoid/Docker/blob/master/Security/CheatSheet.adoc)
+* Collection of resources on hardening your Docker daemon
