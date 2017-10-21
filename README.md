@@ -116,7 +116,7 @@ A collection of container related security resources
 * AppAromor profile generator for Docker containers
 
 ### [Container security as explained by the three pigs](https://www.youtube.com/watch?v=giFKMsIH4b0)
-*
+* [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
 * [The Container Coloring Book](https://github.com/fedoradesign/coloringbook-containers/blob/master/Print-Ready/Web.pdf)
 
 ### [SELinux for Mere Mortals](https://www.youtube.com/watch?v=cNoVgDqqJmM)
