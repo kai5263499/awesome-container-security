@@ -132,6 +132,9 @@ A collection of container related security resources
 ### [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 * Spoiler, its using SELinux
 
+### [Falco](https://www.sysdig.org/falco/)
+* Open source container security monitoring
+
 ------------------------------------------------------------------------------------------
 
 ## Exploits
