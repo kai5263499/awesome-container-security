@@ -150,6 +150,9 @@ A collection of container related security resources
 ### [Docker CVE List](https://www.cvedetails.com/vulnerability-list/vendor_id-13534/product_id-28125/Docker-Docker.html)
 * List of known security vulnerabilities for Docker
 
+### [Three Overlooked Lessons about Container Security](https://thenewstack.io/three-overlooked-lessons-container-security/)
+* Outlines an interesting spear-phishing attack on image maintainers
+
 ------------------------------------------------------------------------------------------
 
 ## Presentations
