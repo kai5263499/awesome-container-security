@@ -66,6 +66,9 @@ A collection of container related security resources
 ### [Protect Your Docker Containers Against Shellshock](https://blog.tutum.co/2014/10/09/protect-your-docker-containers-against-shellshock/)
 * Most base images have patched out Shellshock, but its still a good exercise for thinking about how to mitigate similar attacks in the future
 
+### [Banyan Collector: A framework to peek inside containers](https://github.com/banyanops/collector)
+* Framework for peering inside docker images. Useful for rolling your own image scanning system
+
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Black Duck Software](https://www.blackducksoftware.com/)
