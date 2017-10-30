@@ -25,6 +25,9 @@ A collection of container related security resources
 ### [Security Assurance Requirements for Linux Application Container Deployments](http://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
 * Department of commerce guidance on container security
 
+### [Dramatically Reducing Software Vulnerabilities](http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf)
+* NIST guidance on reducing software vulnerabilities
+
 ### [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers.html)
 * Utility from CoreOS for automated vulnerability analysis for containers
 * [Clair: The Container Image Security Analyzer (by Joey Schorr & Quentin Machu)](https://www.youtube.com/watch?v=Kri67PtPv6s) - Presentation about the Clair platform
@@ -63,6 +66,12 @@ A collection of container related security resources
 ### [Alpine CVE Check](https://github.com/tomwillfixit/alpine-cvecheck)
 * Specialized CVE scanner
 
+### [Protect Your Docker Containers Against Shellshock](https://blog.tutum.co/2014/10/09/protect-your-docker-containers-against-shellshock/)
+* Most base images have patched out Shellshock, but its still a good exercise for thinking about how to mitigate similar attacks in the future
+
+### [Banyan Collector: A framework to peek inside containers](https://github.com/banyanops/collector)
+* Framework for peering inside docker images. Useful for rolling your own image scanning system
+
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Black Duck Software](https://www.blackducksoftware.com/)
@@ -93,7 +102,7 @@ A collection of container related security resources
 ### [Trieme](https://www.aporeto.com/trireme/)
 * SDN application segmentation
 
-### [Envoy](https://envoyproxy.github.io/)
+### [Envoy](https://www.envoyproxy.io/)
 * Sidecar and security enforcement system used at Lyft
 
 ### [Scope](https://github.com/weaveworks/scope)
@@ -170,6 +179,9 @@ A collection of container related security resources
 
 ### [Don't expose the Docker socket ](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
 * Exploration of what an attacker could do with access to the Docker daemon
+
+### [Docker Scan](https://github.com/cr0hn/dockerscan)
+* Image scanning system with a red-team focus of exploitation
 
 ------------------------------------------------------------------------------------------
 
