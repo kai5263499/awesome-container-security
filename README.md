@@ -96,7 +96,7 @@ A collection of container related security resources
 ### [Trieme](https://www.aporeto.com/trireme/)
 * SDN application segmentation
 
-### [Envoy](https://envoyproxy.github.io/)
+### [Envoy](https://www.envoyproxy.io/)
 * Sidecar and security enforcement system used at Lyft
 
 ### [Scope](https://github.com/weaveworks/scope)
