@@ -207,3 +207,5 @@ A collection of container related security resources
 ### [The Golden Ticket- Docker and High Security Microservices - Black Belt Track](https://www.youtube.com/watch?v=346WmxQ5xtk)
 ### [Docker Engine Security Cheatsheet](https://github.com/konstruktoid/Docker/blob/master/Security/CheatSheet.adoc)
 * Collection of resources on hardening your Docker daemon
+### [Dance Madly on the Lip of a Volcano](https://www.youtube.com/watch?v=sNjylW8FV9A)
+* Balancing moving fast and breaking things with securing against vulnerabilities
