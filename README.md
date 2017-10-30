@@ -6,6 +6,8 @@ A collection of container related security resources
 
 * [**Image**](#image)
 
+* [**Build Management**](#build-management)
+
 * [**Networking**](#networking)
 
 * [**Security profiles**](#security-profiles)
@@ -80,6 +82,15 @@ A collection of container related security resources
 * [GrSecurity](https://grsecurity.net/features.php) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
 * [LayeredInsight](http://layeredinsight.com/) - Continuous container scanning and auditing
+
+------------------------------------------------------------------------------------------
+
+## Build Management
+
+------------------------------------------------------------------------------------------
+
+### [Habitat.sh](https://www.habitat.sh/)
+* Source to deployment framework. An alternative to Kubernetes and Spinnaker. I include it here because it implements a concept of trusted images and dependency management
 
 ------------------------------------------------------------------------------------------
 
