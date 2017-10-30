@@ -25,6 +25,9 @@ A collection of container related security resources
 ### [Security Assurance Requirements for Linux Application Container Deployments](http://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
 * Department of commerce guidance on container security
 
+### [Dramatically Reducing Software Vulnerabilities](http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf)
+* NIST guidance on reducing software vulnerabilities
+
 ### [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers.html)
 * Utility from CoreOS for automated vulnerability analysis for containers
 * [Clair: The Container Image Security Analyzer (by Joey Schorr & Quentin Machu)](https://www.youtube.com/watch?v=Kri67PtPv6s) - Presentation about the Clair platform
