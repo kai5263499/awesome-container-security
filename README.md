@@ -180,6 +180,9 @@ A collection of container related security resources
 ### [Don't expose the Docker socket ](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
 * Exploration of what an attacker could do with access to the Docker daemon
 
+### [Docker Scan](https://github.com/cr0hn/dockerscan)
+* Image scanning system with a red-team focus of exploitation
+
 ------------------------------------------------------------------------------------------
 
 ## Presentations
