@@ -14,6 +14,8 @@ A collection of container related security resources
 
 * [**Exploits**](#exploits)
 
+* [**Honeypots**](#honeypots)
+
 * [**Presentations**](#presentations)
 
 ------------------------------------------------------------------------------------------
@@ -208,6 +210,21 @@ A collection of container related security resources
 
 ### [Docker Scan](https://github.com/cr0hn/dockerscan)
 * Image scanning system with a red-team focus of exploitation
+
+------------------------------------------------------------------------------------------
+
+## Honeypots
+
+------------------------------------------------------------------------------------------
+
+### [How I capture and monitor Wordpress attacks](https://medium.com/@BriX_428/how-i-capture-and-monitor-wordpress-attacks-ceda512b07)
+* Capturing exploit attempts by emulating a Wordpress box
+
+### [DShield](https://github.com/xme/dshield-docker)
+* Docker container running cowrie with DShield output enabled
+
+### [Dockerpot](https://www.itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
+* Fairly old but a great idea for platform to build honeypots
 
 ------------------------------------------------------------------------------------------
 
