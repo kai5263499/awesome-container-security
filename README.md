@@ -172,6 +172,8 @@ A collection of container related security resources
 
 ### [Falco](https://www.sysdig.org/falco/)
 * Open source container security monitoring
+* [Technical discussion](https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/)
+* [WTF, My Container Just Spawned a Shell - Jorge Salamero Sanz, Sysdig](https://www.youtube.com/watch?v=LPgjLzFcFVU)
 
 ### [Getting towards real sandbox containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)
 
@@ -235,3 +237,4 @@ A collection of container related security resources
 * Balancing moving fast and breaking things with securing against vulnerabilities
 ### [Making Security Invisible - Jessica Frazelle - JOTB17](https://www.youtube.com/watch?v=BuFTHOgsgAY)
 * Great presentation on sandboxing containers
+### [Vulnerability Exploitation In Docker Container Environments](https://www.youtube.com/watch?v=77-jaeUKH7c)
