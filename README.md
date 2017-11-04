@@ -232,3 +232,5 @@ A collection of container related security resources
 * Collection of resources on hardening your Docker daemon
 ### [Dance Madly on the Lip of a Volcano](https://www.youtube.com/watch?v=sNjylW8FV9A)
 * Balancing moving fast and breaking things with securing against vulnerabilities
+### [Making Security Invisible - Jessica Frazelle - JOTB17](https://www.youtube.com/watch?v=BuFTHOgsgAY)
+* Great presentation on sandboxing containers
