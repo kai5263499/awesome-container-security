@@ -127,6 +127,9 @@ A collection of container related security resources
 ### [Whispers in the Hyper-space: High-speed Covert Channel Attacks in the Cloud](https://www.youtube.com/watch?v=d2TU_Q4U9DA)
 * An exploration of covert channels
 
+### [Setting the Record Straight: containers vs. Zones vs. Jails vs. VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/)
+* Contains an interesting point about how contains that share network namespaces can snoop on eachother's traffic
+
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/product/) - Container security solution with adaptive threat protection
 * [Netsil](https://netsil.com/) - Operations dashboard for Kubernetes
@@ -168,6 +171,13 @@ A collection of container related security resources
 
 ### [Falco](https://www.sysdig.org/falco/)
 * Open source container security monitoring
+
+### [Getting towards real sandbox containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)
+
+### [Bubblewrap](https://github.com/projectatomic/bubblewrap)
+
+### [Subgraph](https://subgraph.com/)
+* Bills itself as an adversary resistant computing platform. Under the hood the idea is to run containers in user space
 
 ------------------------------------------------------------------------------------------
 
