@@ -75,9 +75,7 @@ A collection of container related security resources
 * Framework for peering inside docker images. Useful for rolling your own image scanning system
 
 ### Commercial solutions
-* [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Black Duck Software](https://www.blackducksoftware.com/)
-* [Docker Cloud](https://cloud.docker.com) - Continuous scanning of images along with a trust mechanism
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.co.uk/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
 * [GrSecurity](https://grsecurity.net/features.php) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
@@ -91,6 +89,10 @@ A collection of container related security resources
 
 ### [Habitat.sh](https://www.habitat.sh/)
 * Source to deployment framework. An alternative to Kubernetes and Spinnaker. I include it here because it implements a concept of trusted images and dependency management
+
+### Commercial solutions
+* [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
+* [Docker Cloud](https://cloud.docker.com) - Continuous scanning of images along with a trust mechanism
 
 ------------------------------------------------------------------------------------------
 
@@ -138,7 +140,7 @@ A collection of container related security resources
 ------------------------------------------------------------------------------------------
 
 ### [bane](https://github.com/jessfraz/bane)
-* AppAromor profile generator for Docker containers
+* AppArmor profile generator for Docker containers
 
 ### [Container security as explained by the three pigs](https://www.youtube.com/watch?v=giFKMsIH4b0)
 * [Bringing new security features to Docker](https://opensource.com/business/14/9/security-for-docker)
