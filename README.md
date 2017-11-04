@@ -93,6 +93,7 @@ A collection of container related security resources
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Docker Cloud](https://cloud.docker.com) - Continuous scanning of images along with a trust mechanism
+* [BlueMix](https://console.bluemix.net/docs/security/index.html#security) - IBM's complete container solution that works with Kubernetes. Might be recently [deceased](https://www.ibm.com/blogs/bluemix/2017/10/application-security-cloud-retirement/)
 
 ------------------------------------------------------------------------------------------
 
