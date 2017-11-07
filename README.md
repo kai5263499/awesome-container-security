@@ -211,6 +211,9 @@ A collection of container related security resources
 ### [Docker Scan](https://github.com/cr0hn/dockerscan)
 * Image scanning system with a red-team focus of exploitation
 
+### [Twitter Vine Source Code Dump](https://avicoder.me/2016/07/22/Twitter-Vine-Source-code-dump/)
+* A case study of a vulnerable private registry
+
 ------------------------------------------------------------------------------------------
 
 ## Honeypots
