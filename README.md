@@ -124,7 +124,7 @@ A collection of container related security resources
 ### [Scope](https://github.com/weaveworks/scope)
 * Realtime metrics gathering across the cluster
 
-### [Segment Routing in Container Networks](http://work.delaat.net/rp/2016-2017/p95/report.pdf)
+### [Segment Routing in Container Networks](http://www.delaat.net/rp/2016-2017/p95/report.pdf)
 * Research paper on a practical implementation of segment routing in a container cluster
 
 ### [Whispers in the Hyper-space: High-speed Covert Channel Attacks in the Cloud](https://www.youtube.com/watch?v=d2TU_Q4U9DA)
