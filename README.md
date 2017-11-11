@@ -184,6 +184,9 @@ A collection of container related security resources
 ### [Subgraph](https://subgraph.com/)
 * Bills itself as an adversary resistant computing platform. Under the hood the idea is to run containers in user space
 
+### [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* An exercise that also takes you through the nitty gritty details of capabilities management
+
 ------------------------------------------------------------------------------------------
 
 ## Exploits
