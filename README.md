@@ -193,6 +193,10 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
+### [waitid](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
+* CVE-2017-5123
+* Privledge escalation using the waitid syscall
+
 ### [nsenter](https://coderwall.com/p/xwbraq/attach-to-your-docker-containers-with-ease-using-nsenter)
 * This isn't an exploit but it allows user to access the host VM if run in privileged mode
 
