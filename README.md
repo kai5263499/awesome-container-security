@@ -115,7 +115,7 @@ A collection of container related security resources
 ### [Kube2IAM](https://github.com/jtblin/kube2iam)
 * Apply Amazon Identity Management roles to Kubernetes Pods
 
-### [Trieme](https://www.aporeto.com/trireme/)
+### [Trieme](http://www.aporeto.com/opensource.php/)
 * SDN application segmentation
 
 ### [Envoy](https://www.envoyproxy.io/)
@@ -169,7 +169,7 @@ A collection of container related security resources
 ### [What capabilities do I really need in my container?](https://danwalsh.livejournal.com/76358.html)
 * Blog post about figuring out what capabilities a container needs
 
-### [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
+### [Secure Your Containers with this One Weird Trick](https://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 * Spoiler, its using SELinux
 
 ### [Falco](https://www.sysdig.org/falco/)
@@ -227,7 +227,7 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
-### [How I capture and monitor Wordpress attacks](https://medium.com/@BriX_428/how-i-capture-and-monitor-wordpress-attacks-ceda512b07)
+### [How I capture and monitor Wordpress attacks](https://medium.com/@SecurityBender/how-i-capture-and-monitor-wordpress-attacks-ceda512b07)
 * Capturing exploit attempts by emulating a Wordpress box
 
 ### [DShield](https://github.com/xme/dshield-docker)
