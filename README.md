@@ -115,7 +115,7 @@ A collection of container related security resources
 ### [Kube2IAM](https://github.com/jtblin/kube2iam)
 * Apply Amazon Identity Management roles to Kubernetes Pods
 
-### [Trieme](http://www.aporeto.com/opensource.php/)
+### [Trieme](https://www.aporeto.com/opensource.php/)
 * SDN application segmentation
 
 ### [Envoy](https://www.envoyproxy.io/)
