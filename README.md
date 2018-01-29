@@ -121,6 +121,10 @@ A collection of container related security resources
 ### [Envoy](https://www.envoyproxy.io/)
 * Sidecar and security enforcement system used at Lyft
 
+### [Romana](http://romana.io/)
+* Network policy enforcement
+* [Project](https://github.com/romana/romana)
+
 ### [Scope](https://github.com/weaveworks/scope)
 * Realtime metrics gathering across the cluster
 
