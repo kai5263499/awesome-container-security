@@ -115,7 +115,7 @@ A collection of container related security resources
 ### [Kube2IAM](https://github.com/jtblin/kube2iam)
 * Apply Amazon Identity Management roles to Kubernetes Pods
 
-### [Trieme](https://www.aporeto.com/trireme/)
+### [Trieme](https://www.aporeto.com/opensource.php/)
 * SDN application segmentation
 
 ### [Envoy](https://www.envoyproxy.io/)
@@ -173,7 +173,7 @@ A collection of container related security resources
 ### [What capabilities do I really need in my container?](https://danwalsh.livejournal.com/76358.html)
 * Blog post about figuring out what capabilities a container needs
 
-### [Secure Your Containers with this One Weird Trick](http://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
+### [Secure Your Containers with this One Weird Trick](https://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 * Spoiler, its using SELinux
 
 ### [Falco](https://www.sysdig.org/falco/)
@@ -188,11 +188,18 @@ A collection of container related security resources
 ### [Subgraph](https://subgraph.com/)
 * Bills itself as an adversary resistant computing platform. Under the hood the idea is to run containers in user space
 
+### [Linux Containers in 500 Lines of Code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* An exercise that also takes you through the nitty gritty details of capabilities management
+
 ------------------------------------------------------------------------------------------
 
 ## Exploits
 
 ------------------------------------------------------------------------------------------
+
+### [waitid](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
+* CVE-2017-5123
+* Privledge escalation using the waitid syscall
 
 ### [nsenter](https://coderwall.com/p/xwbraq/attach-to-your-docker-containers-with-ease-using-nsenter)
 * This isn't an exploit but it allows user to access the host VM if run in privileged mode
@@ -224,7 +231,7 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
-### [How I capture and monitor Wordpress attacks](https://medium.com/@BriX_428/how-i-capture-and-monitor-wordpress-attacks-ceda512b07)
+### [How I capture and monitor Wordpress attacks](https://medium.com/@SecurityBender/how-i-capture-and-monitor-wordpress-attacks-ceda512b07)
 * Capturing exploit attempts by emulating a Wordpress box
 
 ### [DShield](https://github.com/xme/dshield-docker)
