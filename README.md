@@ -70,7 +70,7 @@ A collection of container related security resources
 ### [Alpine CVE Check](https://github.com/tomwillfixit/alpine-cvecheck)
 * Specialized CVE scanner
 
-### [Protect Your Docker Containers Against Shellshock](https://blog.tutum.co/2014/10/09/protect-your-docker-containers-against-shellshock/)
+### [Protect Your Docker Containers Against Shellshock](https://webcache.googleusercontent.com/search?q=cache:bp81zriPKMoJ:https://blog.tutum.co/2014/10/09/protect-your-docker-containers-against-shellshock/+&cd=4&hl=en&ct=clnk&gl=us)
 * Most base images have patched out Shellshock, but its still a good exercise for thinking about how to mitigate similar attacks in the future
 
 ### [Banyan Collector: A framework to peek inside containers](https://github.com/banyanops/collector)
@@ -81,7 +81,7 @@ A collection of container related security resources
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.co.uk/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
 * [GrSecurity](https://grsecurity.net/features.php) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
-* [LayeredInsight](http://layeredinsight.com/) - Continuous container scanning and auditing
+* [LayeredInsight](https://layeredinsight.com/) - Continuous container scanning and auditing
 
 ------------------------------------------------------------------------------------------
 
@@ -95,7 +95,6 @@ A collection of container related security resources
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Docker Cloud](https://cloud.docker.com) - Continuous scanning of images along with a trust mechanism
-* [BlueMix](https://console.bluemix.net/docs/security/index.html#security) - IBM's complete container solution that works with Kubernetes. Might be recently [deceased](https://www.ibm.com/blogs/bluemix/2017/10/application-security-cloud-retirement/)
 
 ------------------------------------------------------------------------------------------
 
@@ -120,6 +119,10 @@ A collection of container related security resources
 
 ### [Envoy](https://www.envoyproxy.io/)
 * Sidecar and security enforcement system used at Lyft
+
+### [Romana](http://romana.io/)
+* Network policy enforcement
+* [Project](https://github.com/romana/romana)
 
 ### [Scope](https://github.com/weaveworks/scope)
 * Realtime metrics gathering across the cluster
