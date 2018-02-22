@@ -133,6 +133,9 @@ A collection of container related security resources
 ### [Setting the Record Straight: containers vs. Zones vs. Jails vs. VMs](https://blog.jessfraz.com/post/containers-zones-jails-vms/)
 * Contains an interesting point about how contains that share network namespaces can snoop on eachother's traffic
 
+### [Docker Layer 2 ICC Bug](https://github.com/brthor/docker-layer2-icc)
+* Containers are able to send raw ethernet frames to other containers with inter-container communication disabled
+
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/product/) - Container security solution with adaptive threat protection
 * [Netsil](https://netsil.com/) - Operations dashboard for Kubernetes
