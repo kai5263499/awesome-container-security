@@ -70,9 +70,6 @@ A collection of container related security resources
 ### [Alpine CVE Check](https://github.com/tomwillfixit/alpine-cvecheck)
 * Specialized CVE scanner
 
-### [Protect Your Docker Containers Against Shellshock](https://webcache.googleusercontent.com/search?q=cache:bp81zriPKMoJ:https://blog.tutum.co/2014/10/09/protect-your-docker-containers-against-shellshock/+&cd=4&hl=en&ct=clnk&gl=us)
-* Most base images have patched out Shellshock, but its still a good exercise for thinking about how to mitigate similar attacks in the future
-
 ### [Banyan Collector: A framework to peek inside containers](https://github.com/banyanops/collector)
 * Framework for peering inside docker images. Useful for rolling your own image scanning system
 
