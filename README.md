@@ -8,7 +8,7 @@ A collection of container related security resources
 
 * [**Build Management**](#build-management)
 
-* [**Networking**](#networking)
+* [**Networking/Runtime**](#networking/runtime)
 
 * [**Security profiles**](#security-profiles)
 
@@ -95,9 +95,12 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
-## Networking
+## Networking/Runtime
 
 ------------------------------------------------------------------------------------------
+### [gVisor](https://github.com/google/gvisor)
+* User-space kernel designed to provide better isolation/sandboxing of containers
+
 ### [Cilium](https://github.com/cilium/cilium)
 * Network policy enforcement based on eBPF
 * [Cilium - Container Security and Networking Using BPF and XDP - Thomas Graf, Covalent](https://www.youtube.com/watch?v=CcGtDMm1SJA) - Presentation of Cilium by its creator
