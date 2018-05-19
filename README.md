@@ -98,6 +98,9 @@ A collection of container related security resources
 ## Networking/Runtime
 
 ------------------------------------------------------------------------------------------
+### [Secure Container Isolation: Problem Statement & Solution Space](https://goo.gl/eQHuqo)
+* Comprehensive guide from Google engineers on securing and isolating containers
+
 ### [gVisor](https://github.com/google/gvisor)
 * User-space kernel designed to provide better isolation/sandboxing of containers
 
