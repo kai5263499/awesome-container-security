@@ -23,6 +23,9 @@ A collection of container related security resources
 ## Image
 
 ------------------------------------------------------------------------------------------
+### [Port Authority Open Source Security Scanner for Docker](https://www.linkedin.com/pulse/port-authority-open-source-security-scanner-docker-srinivasan/)
+* [Getting started guide](https://tech.target.com/open%20source/2018/06/07/port-authority-open-source-buzz.html)
+* [Source](https://github.com/target/portauthority)
 ### [Understanding and Hardening Linux Containers](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/)
 * The "War and Peace" of container security
 
