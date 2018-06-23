@@ -29,10 +29,10 @@ A collection of container related security resources
 ### [Understanding and Hardening Linux Containers](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/)
 * The "War and Peace" of container security
 
-### [Security Assurance Requirements for Linux Application Container Deployments](http://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
+### [Security Assurance Requirements for Linux Application Container Deployments](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
 * Department of commerce guidance on container security
 
-### [Dramatically Reducing Software Vulnerabilities](http://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf)
+### [Dramatically Reducing Software Vulnerabilities](https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf)
 * NIST guidance on reducing software vulnerabilities
 
 ### [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers.html)
@@ -101,7 +101,7 @@ A collection of container related security resources
 ## Networking/Runtime
 
 ------------------------------------------------------------------------------------------
-### [Secure Container Isolation: Problem Statement & Solution Space](https://goo.gl/eQHuqo)
+### [Secure Container Isolation: Problem Statement & Solution Space](https://docs.google.com/document/d/1QQ5u1RBDLXWvC8K3pscTtTRThsOeBSts_imYEoRyw8A/edit#heading=h.ypyhxoaw8f95)
 * Comprehensive guide from Google engineers on securing and isolating containers
 
 ### [gVisor](https://github.com/google/gvisor)
@@ -120,13 +120,13 @@ A collection of container related security resources
 ### [Kube2IAM](https://github.com/jtblin/kube2iam)
 * Apply Amazon Identity Management roles to Kubernetes Pods
 
-### [Trieme](https://www.aporeto.com/opensource.php/)
+### [Trieme](https://www.aporeto.com/opensource/)
 * SDN application segmentation
 
 ### [Envoy](https://www.envoyproxy.io/)
 * Sidecar and security enforcement system used at Lyft
 
-### [Romana](http://romana.io/)
+### [Romana](https://romana.io/)
 * Network policy enforcement
 * [Project](https://github.com/romana/romana)
 
@@ -157,7 +157,7 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
-### [bane](https://github.com/jessfraz/bane)
+### [bane](https://github.com/genuinetools/bane)
 * AppArmor profile generator for Docker containers
 
 ### [Container security as explained by the three pigs](https://www.youtube.com/watch?v=giFKMsIH4b0)
@@ -184,7 +184,7 @@ A collection of container related security resources
 ### [Secure Your Containers with this One Weird Trick](https://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
 * Spoiler, its using SELinux
 
-### [Falco](https://www.sysdig.org/falco/)
+### [Falco](https://sysdig.com/opensource/falco/)
 * Open source container security monitoring
 * [Technical discussion](https://sysdig.com/blog/selinux-seccomp-falco-technical-discussion/)
 * [WTF, My Container Just Spawned a Shell - Jorge Salamero Sanz, Sysdig](https://www.youtube.com/watch?v=LPgjLzFcFVU)
