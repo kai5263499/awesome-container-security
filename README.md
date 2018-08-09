@@ -16,7 +16,7 @@ A collection of container related security resources
 
 * [**Honeypots**](#honeypots)
 
-* [**Presentations**](#presentations)
+* [**Presentations/Posts**](#presentations/posts)
 
 ------------------------------------------------------------------------------------------
 
@@ -250,10 +250,14 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
-## Presentations
+## Presentations/Posts
 
 ------------------------------------------------------------------------------------------
-
+### [Insects, cattle, and pets](https://blog.rackspace.com/pets-cattle-and-nowinsects)
+* An extension of the helpful cattle and pets analogy
+### [Capability based sandboxing](https://archive.fosdem.org/2016/schedule/event/capsicum/)
+* The author presents the intreaging notion of applying the microservices approach to containers where you divide an application apart by capabilities
+* [Awesome Object Capabilities](https://github.com/dckc/awesome-ocap) - A language-level implementation of the capability based sandboxing methodology
 ### [Introduction to Container Security](https://www.youtube.com/watch?v=ABFmXCGJlo8)
 ### [GoDaddy's Production Kubernetes Story & Moving Target Defense in Container Envs](https://www.youtube.com/watch?v=2nisq0stz-s)
 ### [Container Security Round Table](https://www.youtube.com/watch?v=eY0wIj7lsEw)
