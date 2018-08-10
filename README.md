@@ -146,7 +146,7 @@ A collection of container related security resources
 * Containers are able to send raw ethernet frames to other containers with inter-container communication disabled
 
 ### Commercial solutions
-* [StakRox](https://www.stackrox.com/product/) - Container security solution with adaptive threat protection
+* [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
 * [Netsil](https://netsil.com/) - Operations dashboard for Kubernetes
 * [NeuVector](https://neuvector.com/) - Continuous network security
 * [TwistLock](https://www.twistlock.com/) - Network activity profiling
@@ -258,6 +258,7 @@ A collection of container related security resources
 ### [Capability based sandboxing](https://archive.fosdem.org/2016/schedule/event/capsicum/)
 * The author presents the intreaging notion of applying the microservices approach to containers where you divide an application apart by capabilities
 * [Awesome Object Capabilities](https://github.com/dckc/awesome-ocap) - A language-level implementation of the capability based sandboxing methodology
+* [Linux port of Capsicum](http://capsicum-linux.org/) related to this [LWN post](https://lwn.net/Articles/604287/)
 ### [Introduction to Container Security](https://www.youtube.com/watch?v=ABFmXCGJlo8)
 ### [GoDaddy's Production Kubernetes Story & Moving Target Defense in Container Envs](https://www.youtube.com/watch?v=2nisq0stz-s)
 ### [Container Security Round Table](https://www.youtube.com/watch?v=eY0wIj7lsEw)
