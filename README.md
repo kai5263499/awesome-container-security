@@ -23,6 +23,9 @@ A collection of container related security resources
 ## Image
 
 ------------------------------------------------------------------------------------------
+### [Dagda](https://github.com/eliasgranderubio/dagda/)
+* Static image analysis tool
+
 ### [Port Authority Open Source Security Scanner for Docker](https://www.linkedin.com/pulse/port-authority-open-source-security-scanner-docker-srinivasan/)
 * [Getting started guide](https://tech.target.com/open%20source/2018/06/07/port-authority-open-source-buzz.html)
 * [Source](https://github.com/target/portauthority)
@@ -34,6 +37,8 @@ A collection of container related security resources
 
 ### [Dramatically Reducing Software Vulnerabilities](https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf)
 * NIST guidance on reducing software vulnerabilities
+* [NIST security content automation protocol](https://csrc.nist.gov/projects/security-content-automation-protocol)
+* [Extensible Configuration Checklist Description Format (XCCDF)](https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/xccdf/) - Goes along with the SCAP link above for specifying a security template that containers should conform to 
 
 ### [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers.html)
 * Utility from CoreOS for automated vulnerability analysis for containers
@@ -69,6 +74,7 @@ A collection of container related security resources
 
 ### [Anchore](https://anchore.io/)
 * Free image scanning service with a commercial offering similar to Docker Cloud
+* [anchore-cli](https://github.com/anchore/anchore-cli)
 
 ### [Alpine CVE Check](https://github.com/tomwillfixit/alpine-cvecheck)
 * Specialized CVE scanner
