@@ -288,3 +288,4 @@ A collection of container related security resources
 ### [Making Security Invisible - Jessica Frazelle - JOTB17](https://www.youtube.com/watch?v=BuFTHOgsgAY)
 * Great presentation on sandboxing containers
 ### [Vulnerability Exploitation In Docker Container Environments](https://www.youtube.com/watch?v=77-jaeUKH7c)
+### [Kubernetes Security Best Practices](https://dev.to/petermbenjamin/kubernetes-security-best-practices-hlk)
