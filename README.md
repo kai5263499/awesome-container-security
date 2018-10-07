@@ -38,7 +38,7 @@ A collection of container related security resources
 ### [Dramatically Reducing Software Vulnerabilities](https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf)
 * NIST guidance on reducing software vulnerabilities
 * [NIST security content automation protocol](https://csrc.nist.gov/projects/security-content-automation-protocol)
-* [Extensible Configuration Checklist Description Format (XCCDF)](https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/xccdf/) - Goes along with the SCAP link above for specifying a security template that containers should conform to 
+* [Extensible Configuration Checklist Description Format (XCCDF)](https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/xccdf/) - Goes along with the SCAP link above for specifying a security template that containers should conform to
 
 ### [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers.html)
 * Utility from CoreOS for automated vulnerability analysis for containers
@@ -289,3 +289,4 @@ A collection of container related security resources
 * Great presentation on sandboxing containers
 ### [Vulnerability Exploitation In Docker Container Environments](https://www.youtube.com/watch?v=77-jaeUKH7c)
 ### [Docker Security Best Practices](https://dev.to/petermbenjamin/docker-security-best-practices-45ih)
+### [Kubernetes Security Best Practices](https://dev.to/petermbenjamin/kubernetes-security-best-practices-hlk)
