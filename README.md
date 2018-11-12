@@ -221,7 +221,8 @@ A collection of container related security resources
 ### [Dirty COW](https://dirtycow.ninja/)
 * CVE-2016-5195
 * Privilege escalation vulnerability in Linux kernel
-* [Proof of concepts](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs)
+* [Proof of concept](https://github.com/scotty-c/dirty-cow-poc)
+* [Proof of concept collection](https://github.com/dirtycow/dirtycow.github.io/wiki/PoCs)
 * [Dirty COW and why lying is bad even if you are the Linux kernel](https://chao-tic.github.io/blog/2017/05/24/dirty-cow)
 
 ### [Docker CVE List](https://www.cvedetails.com/vulnerability-list/vendor_id-13534/product_id-28125/Docker-Docker.html)
