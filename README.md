@@ -211,6 +211,9 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
+### [harpoon](https://github.com/ProfessionallyEvil/harpoon)
+* Post exploitation framework
+
 ### [waitid](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
 * CVE-2017-5123
 * Privledge escalation using the waitid syscall
