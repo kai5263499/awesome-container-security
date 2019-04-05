@@ -107,6 +107,9 @@ A collection of container related security resources
 ## Networking/Runtime
 
 ------------------------------------------------------------------------------------------
+### [kiam](https://github.com/uswitch/kiam)
+* Associating Amazon IAM roles to pods
+
 ### [Secure Container Isolation: Problem Statement & Solution Space](https://docs.google.com/document/d/1QQ5u1RBDLXWvC8K3pscTtTRThsOeBSts_imYEoRyw8A/edit#heading=h.ypyhxoaw8f95)
 * Comprehensive guide from Google engineers on securing and isolating containers
 
