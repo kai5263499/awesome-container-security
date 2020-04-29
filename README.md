@@ -90,7 +90,6 @@ A collection of container related security resources
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.co.uk/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
 * [GrSecurity](https://grsecurity.net/features) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
-* [LayeredInsight](https://layeredinsight.com/) - Continuous container scanning and auditing
 
 ------------------------------------------------------------------------------------------
 
@@ -145,9 +144,6 @@ A collection of container related security resources
 ### [Scope](https://github.com/weaveworks/scope)
 * Realtime metrics gathering across the cluster
 
-### [Segment Routing in Container Networks](http://www.delaat.net/rp/2016-2017/p95/report.pdf)
-* Research paper on a practical implementation of segment routing in a container cluster
-
 ### [Whispers in the Hyper-space: High-speed Covert Channel Attacks in the Cloud](https://www.youtube.com/watch?v=d2TU_Q4U9DA)
 * An exploration of covert channels
 
@@ -159,7 +155,6 @@ A collection of container related security resources
 
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
-* [Netsil](https://netsil.com/) - Operations dashboard for Kubernetes
 * [NeuVector](https://neuvector.com/) - Continuous network security
 * [TwistLock](https://www.twistlock.com/) - Network activity profiling
 
@@ -203,7 +198,7 @@ A collection of container related security resources
 
 ### [Getting towards real sandbox containers](https://blog.jessfraz.com/post/getting-towards-real-sandbox-containers/)
 
-### [Bubblewrap](https://github.com/projectatomic/bubblewrap)
+### [Bubblewrap](https://github.com/containers/bubblewrap)
 
 ### [Subgraph](https://subgraph.com/)
 * Bills itself as an adversary resistant computing platform. Under the hood the idea is to run containers in user space
@@ -266,7 +261,7 @@ A collection of container related security resources
 ## Presentations/Posts
 
 ------------------------------------------------------------------------------------------
-### [Insects, cattle, and pets](https://blog.rackspace.com/pets-cattle-and-nowinsects)
+### [Pets, cattle and insects](https://hub.packtpub.com/pets-cattle-analogy-demonstrates-how-serverless-fits-software-infrastructure-landscape/)
 * An extension of the helpful cattle and pets analogy
 ### [Capability based sandboxing](https://archive.fosdem.org/2016/schedule/event/capsicum/)
 * The author presents the intreaging notion of applying the microservices approach to containers where you divide an application apart by capabilities
@@ -284,7 +279,7 @@ A collection of container related security resources
 * A security model to match the deployment model of many orchestration utilities
 ### [Container Performance Analysis](https://www.youtube.com/watch?v=bK9A5ODIgac)
 * Container performance analysis at Netflix. This contains similar material as the bSides talk listed above with
-* [Evolution of Container Usage at Netflix](https://medium.com/netflix-techblog/the-evolution-of-container-usage-at-netflix-3abfc096781b) - Also provides insight into container monitoring, logging, and security at Netflix.
+* [Evolution of Container Usage at Netflix](https://netflixtechblog.com/the-evolution-of-container-usage-at-netflix-3abfc096781b) - Also provides insight into container monitoring, logging, and security at Netflix.
 ### [Docker Networking in Production at Visa](https://www.youtube.com/watch?v=k3SeQPt0f0o)
 * Chief Systems Architect Sasi Kannappan describes how Docker is used at Visa
 ### [The Golden Ticket- Docker and High Security Microservices - Black Belt Track](https://www.youtube.com/watch?v=346WmxQ5xtk)
