@@ -56,7 +56,7 @@ A collection of container related security resources
 * [drydock](https://github.com/zuBux/drydock) - Inspired by docker-bench-security with the ability to apply custom security profiles
 * [Docker bench security](https://github.com/diogomonica/docker-bench-security) - One of the first security linting utility for Docker
 
-### [Buildah](https://github.com/projectatomic/buildah)
+### [Buildah](https://github.com/containers/buildah)
 * [Introduction](http://www.projectatomic.io/blog/2017/06/introducing-buildah/)
 * Docker image building framework
 
@@ -69,13 +69,13 @@ A collection of container related security resources
 ### [Grafeas](https://github.com/Grafeas/Grafeas)
 * An open-source API to audit and govern your software supply chain
 
-### [Atomic Reactor](https://github.com/projectatomic/atomic-reactor)
+### [Atomic Reactor](https://github.com/containerbuildsystem/atomic-reactor)
 * Python library that extends docker build. It's part of the RedHat Atomic project so its rather opinionated
 
 ### [Containers Internals Lab](https://github.com/fatherlinux/container-internals-lab)
 * A series of exercises that provide a deep dive into the internals of containers. Also has a good SELinux training component
 
-### [Anchore](https://anchore.io/)
+### [Anchore](https://anchore.com/enterprise/)
 * Free image scanning service with a commercial offering similar to Docker Cloud
 * [anchore-cli](https://github.com/anchore/anchore-cli)
 
@@ -88,7 +88,7 @@ A collection of container related security resources
 ### Commercial solutions
 * [Black Duck Software](https://www.blackducksoftware.com/)
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.co.uk/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
-* [GrSecurity](https://grsecurity.net/features.php) - A collection of image hardening tools
+* [GrSecurity](https://grsecurity.net/features) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
 * [LayeredInsight](https://layeredinsight.com/) - Continuous container scanning and auditing
 
@@ -103,7 +103,7 @@ A collection of container related security resources
 
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
-* [Docker Cloud](https://cloud.docker.com) - Continuous scanning of images along with a trust mechanism
+* [Docker Cloud](https://hub.docker.com) - Continuous scanning of images along with a trust mechanism
 
 ------------------------------------------------------------------------------------------
 
@@ -134,9 +134,6 @@ A collection of container related security resources
 
 ### [Kube2IAM](https://github.com/jtblin/kube2iam)
 * Apply Amazon Identity Management roles to Kubernetes Pods
-
-### [Trieme](https://www.aporeto.com/opensource/)
-* SDN application segmentation
 
 ### [Envoy](https://www.envoyproxy.io/)
 * Sidecar and security enforcement system used at Lyft
@@ -196,7 +193,7 @@ A collection of container related security resources
 ### [What capabilities do I really need in my container?](https://danwalsh.livejournal.com/76358.html)
 * Blog post about figuring out what capabilities a container needs
 
-### [Secure Your Containers with this One Weird Trick](https://rhelblog.redhat.com/2016/10/17/secure-your-containers-with-this-one-weird-trick/)
+### [Secure Your Containers with this One Weird Trick](https://www.redhat.com/en/blog/secure-your-containers-one-weird-trick)
 * Spoiler, its using SELinux
 
 ### [Falco](https://sysdig.com/opensource/falco/)
@@ -223,7 +220,7 @@ A collection of container related security resources
 ### [harpoon](https://github.com/ProfessionallyEvil/harpoon)
 * Post exploitation framework
 
-### [waitid](https://www.twistlock.com/2017/12/27/escaping-docker-container-using-waitid-cve-2017-5123/)
+### [waitid](https://www.twistlock.com/labs-blog/escaping-docker-container-using-waitid-cve-2017-5123/)
 * CVE-2017-5123
 * Privledge escalation using the waitid syscall
 
@@ -242,9 +239,6 @@ A collection of container related security resources
 
 ### [Three Overlooked Lessons about Container Security](https://thenewstack.io/three-overlooked-lessons-container-security/)
 * Outlines an interesting spear-phishing attack on image maintainers
-
-### [Don't expose the Docker socket ](https://www.lvh.io/posts/dont-expose-the-docker-socket-not-even-to-a-container.html)
-* Exploration of what an attacker could do with access to the Docker daemon
 
 ### [Docker Scan](https://github.com/cr0hn/dockerscan)
 * Image scanning system with a red-team focus of exploitation
@@ -277,7 +271,7 @@ A collection of container related security resources
 ### [Capability based sandboxing](https://archive.fosdem.org/2016/schedule/event/capsicum/)
 * The author presents the intreaging notion of applying the microservices approach to containers where you divide an application apart by capabilities
 * [Awesome Object Capabilities](https://github.com/dckc/awesome-ocap) - A language-level implementation of the capability based sandboxing methodology
-* [Linux port of Capsicum](http://capsicum-linux.org/) related to this [LWN post](https://lwn.net/Articles/604287/)
+* [Linux port of Capsicum](https://github.com/google/capsicum-linux) related to this [LWN post](https://lwn.net/Articles/604287/)
 ### [Introduction to Container Security](https://www.youtube.com/watch?v=ABFmXCGJlo8)
 ### [GoDaddy's Production Kubernetes Story & Moving Target Defense in Container Envs](https://www.youtube.com/watch?v=2nisq0stz-s)
 ### [Container Security Round Table](https://www.youtube.com/watch?v=eY0wIj7lsEw)
