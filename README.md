@@ -218,7 +218,7 @@ A collection of container related security resources
 ### [harpoon](https://github.com/ProfessionallyEvil/harpoon)
 * Post exploitation framework
 
-### [waitid](https://youtu.be/IdRDFS4u2rQ)
+### [waitid](https://www.youtube.com/watch?v=IdRDFS4u2rQ)
 * CVE-2017-5123
 * Privledge escalation using the waitid syscall
 * [Detailed write-up](https://salls.github.io/Linux-Kernel-CVE-2017-5123/)
