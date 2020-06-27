@@ -4,4 +4,4 @@ rvm:
 before_script:
   - gem install awesome_bot
 script:
-  - awesome_bot README.md --white-list 'www.linkedin.com,netflixtechblog.com'
+  - awesome_bot README.md --white-list 'www.linkedin.com,netflixtechblog.com,sysdig.com,cdn.rawgit.com'

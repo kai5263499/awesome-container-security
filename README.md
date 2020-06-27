@@ -218,9 +218,10 @@ A collection of container related security resources
 ### [harpoon](https://github.com/ProfessionallyEvil/harpoon)
 * Post exploitation framework
 
-### [waitid](https://www.twistlock.com/labs-blog/escaping-docker-container-using-waitid-cve-2017-5123/)
+### [waitid](https://youtu.be/IdRDFS4u2rQ)
 * CVE-2017-5123
 * Privledge escalation using the waitid syscall
+* [Detailed write-up](https://salls.github.io/Linux-Kernel-CVE-2017-5123/)
 
 ### [nsenter](https://coderwall.com/p/xwbraq/attach-to-your-docker-containers-with-ease-using-nsenter)
 * This isn't an exploit but it allows user to access the host VM if run in privileged mode
@@ -250,7 +251,7 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
-### [How I capture and monitor Wordpress attacks](https://medium.com/@SecurityBender/how-i-capture-and-monitor-wordpress-attacks-ceda512b07)
+### [How I capture and monitor Wordpress attacks](https://medium.com/@misc_heading/how-i-capture-and-monitor-wordpress-attacks-ceda512b07)
 * Capturing exploit attempts by emulating a Wordpress box
 
 ### [DShield](https://github.com/xme/dshield-docker)
