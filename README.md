@@ -32,7 +32,7 @@ A collection of container related security resources
 ### [Port Authority Open Source Security Scanner for Docker](https://www.linkedin.com/pulse/port-authority-open-source-security-scanner-docker-srinivasan/)
 * [Getting started guide](https://tech.target.com/open%20source/2018/06/07/port-authority-open-source-buzz.html)
 * [Source](https://github.com/target/portauthority)
-### [Understanding and Hardening Linux Containers](https://www.nccgroup.trust/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/)
+### [Understanding and Hardening Linux Containers](https://www.nccgroup.com/us/about-us/newsroom-and-events/blog/2016/april/understanding-and-hardening-linux-containers/)
 * The "War and Peace" of container security
 
 ### [Security Assurance Requirements for Linux Application Container Deployments](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8176.pdf)
@@ -41,7 +41,7 @@ A collection of container related security resources
 ### [Dramatically Reducing Software Vulnerabilities](https://nvlpubs.nist.gov/nistpubs/ir/2016/NIST.IR.8151.pdf)
 * NIST guidance on reducing software vulnerabilities
 * [NIST security content automation protocol](https://csrc.nist.gov/projects/security-content-automation-protocol)
-* [Extensible Configuration Checklist Description Format (XCCDF)](https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/xccdf/) - Goes along with the SCAP link above for specifying a security template that containers should conform to
+* [Extensible Configuration Checklist Description Format (XCCDF)](https://csrc.nist.gov/projects/security-content-automation-protocol/specifications/xccdf) - Goes along with the SCAP link above for specifying a security template that containers should conform to
 
 ### [CoreOS Clair](https://coreos.com/blog/vulnerability-analysis-for-containers.html)
 * Utility from CoreOS for automated vulnerability analysis for containers
@@ -87,7 +87,7 @@ A collection of container related security resources
 
 ### Commercial solutions
 * [Black Duck Software](https://www.blackducksoftware.com/)
-* [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.co.uk/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
+* [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.com/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
 * [GrSecurity](https://grsecurity.net/features) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
 
@@ -156,7 +156,7 @@ A collection of container related security resources
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
 * [NeuVector](https://neuvector.com/) - Continuous network security
-* [TwistLock](https://www.twistlock.com/) - Network activity profiling
+* [TwistLock]( https://www.paloaltonetworks.com/prisma/cloud) - Network activity profiling
 
 ------------------------------------------------------------------------------------------
 
