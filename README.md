@@ -16,7 +16,7 @@ A collection of container related security resources
 
 * [**Honeypots**](#honeypots)
 
-* [**Presentations/Posts**](#presentations/posts)
+* [**Presentations/Posts/Articles**](#presentations/posts/articles)
 
 ------------------------------------------------------------------------------------------
 
@@ -262,11 +262,13 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
-## Presentations/Posts
+## Presentations/Posts/Articles
 
 ------------------------------------------------------------------------------------------
 ### [Pets, cattle and insects](https://hub.packtpub.com/pets-cattle-analogy-demonstrates-how-serverless-fits-software-infrastructure-landscape/)
 * An extension of the helpful cattle and pets analogy
+### [OWASP Kubernetes Security Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Kubernetes_Security_Cheat_Sheet.html)
+* One of the many cheat sheets in the OWASP series, providing insight into the security of various components and capabilities of Kubernetes
 ### [Capability based sandboxing](https://archive.fosdem.org/2016/schedule/event/capsicum/)
 * The author presents the intreaging notion of applying the microservices approach to containers where you divide an application apart by capabilities
 * [Awesome Object Capabilities](https://github.com/dckc/awesome-ocap) - A language-level implementation of the capability based sandboxing methodology
