@@ -137,6 +137,9 @@ A collection of container related security resources
 ### [Envoy](https://www.envoyproxy.io/)
 * Sidecar and security enforcement system used at Lyft
 
+### [segspec](https://github.com/dormstern/segspec)
+* Extracts network dependencies from application config files and generates Kubernetes NetworkPolicies with evidence tracing
+
 ### [Romana](https://romana.io/)
 * Network policy enforcement
 * [Project](https://github.com/romana/romana)
