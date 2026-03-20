@@ -156,6 +156,9 @@ A collection of container related security resources
 ### [Docker Layer 2 ICC Bug](https://github.com/brthor/docker-layer2-icc)
 * Containers are able to send raw ethernet frames to other containers with inter-container communication disabled
 
+### [Brood Box](https://github.com/stacklok/brood-box)
+* CLI tool for running coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with workspace snapshot isolation, egress control, and MCP authorization
+
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
 * [NeuVector](https://neuvector.com/) - Continuous network security
@@ -216,7 +219,7 @@ A collection of container related security resources
 ------------------------------------------------------------------------------------------
 
 ### [Threat Alert: Kinsing Malware Attacks Targeting Container Environments](https://blog.aquasec.com/threat-alert-kinsing-malware-container-vulnerability)
-* From the intro: "We’ve been tracking an organized attack campaign that targets misconfigured open Docker Daemon API ports. This persistent campaign has been going on for months, with thousands of attempts taking place nearly on a daily basis."
+* From the intro: "We've been tracking an organized attack campaign that targets misconfigured open Docker Daemon API ports. This persistent campaign has been going on for months, with thousands of attempts taking place nearly on a daily basis."
 
 ### [harpoon](https://github.com/ProfessionallyEvil/harpoon)
 * Post exploitation framework
