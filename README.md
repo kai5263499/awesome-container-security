@@ -79,6 +79,9 @@ A collection of container related security resources
 * Free image scanning service with a commercial offering similar to Docker Cloud
 * [anchore-cli](https://github.com/anchore/anchore-cli)
 
+### [vens](https://github.com/venslabs/vens)
+* Prioritize vulnerabilities by real risk, not just CVSS. Takes a Trivy or Grype scan and scores each CVE based on your system's actual context.
+
 ### [Alpine CVE Check](https://github.com/tomwillfixit/alpine-cvecheck)
 * Specialized CVE scanner
 
