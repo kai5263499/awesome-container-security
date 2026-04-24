@@ -106,6 +106,7 @@ A collection of container related security resources
 ### Commercial solutions
 * [Project Atomic](https://www.projectatomic.io/) - RedHat's complete container solution with strong built-in security
 * [Docker Cloud](https://hub.docker.com) - Continuous scanning of images along with a trust mechanism
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with AI-powered operations, real-time observability, and CNCF project integrations across edge and cloud clusters.
 
 ------------------------------------------------------------------------------------------
 
