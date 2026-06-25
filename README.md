@@ -88,6 +88,9 @@ A collection of container related security resources
 ### [Banyan Collector: A framework to peek inside containers](https://github.com/banyanops/collector)
 * Framework for peering inside docker images. Useful for rolling your own image scanning system
 
+### [HimitsuShell](https://himitsushell.com)
+* Protects proprietary Docker build logic and shell scripts inside containers by compiling them into obfuscated binaries. (alternative to shc)
+
 ### Commercial solutions
 * [Black Duck Software](https://www.blackducksoftware.com/)
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.com/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
