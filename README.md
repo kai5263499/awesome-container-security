@@ -174,6 +174,7 @@ A collection of container related security resources
 * [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
 * [NeuVector](https://neuvector.com/) - Continuous network security
 * [TwistLock]( https://www.paloaltonetworks.com/prisma/cloud) - Network activity profiling
+* [Protet](https://protet.io) - Behavioral runtime detection for CI/CD builds; eBPF/Tetragon kernel telemetry, OCSF findings
 
 ------------------------------------------------------------------------------------------
 
