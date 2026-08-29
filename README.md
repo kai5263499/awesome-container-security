@@ -281,6 +281,10 @@ A collection of container related security resources
 
 ------------------------------------------------------------------------------------------
 
+
+## Training
+
+- [RansomLeak - Cloud and container security training](https://ransomleak.com/catalogue/cloud-security/)
 ## Presentations/Posts/Articles
 
 ------------------------------------------------------------------------------------------
