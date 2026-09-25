@@ -88,6 +88,9 @@ A collection of container related security resources
 ### [Banyan Collector: A framework to peek inside containers](https://github.com/banyanops/collector)
 * Framework for peering inside docker images. Useful for rolling your own image scanning system
 
+### [Agent Evidence Admission](https://github.com/probityai/agent-evidence-admission)
+* Kubernetes admission policies for OPA, Kyverno and the sigstore policy-controller that admit or refuse a workload on its signed execution evidence. Each policy states which checks it enforces and which it cannot reach
+
 ### Commercial solutions
 * [Black Duck Software](https://www.blackducksoftware.com/)
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.com/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
