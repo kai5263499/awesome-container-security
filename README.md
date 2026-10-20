@@ -176,6 +176,10 @@ A collection of container related security resources
 ### [Brood Box](https://github.com/stacklok/brood-box)
 * CLI tool for running coding agents (Claude Code, Codex, OpenCode) inside hardware-isolated microVMs with workspace snapshot isolation, egress control, and MCP authorization
 
+### [Tracekit](https://github.com/Cygnux-Labs/Tracekit)
+* Records AI agents' tool calls from outside the agent's container: a signer in a sidecar with its own uid, or a central service agents reach with their projected service-account tokens, allows, denies or holds each call for a person and signs every call and decision into a hash-chained log that verifies offline
+* [Tracekit with Kubernetes agent-sandbox](https://github.com/Cygnux-Labs/Tracekit/wiki/Integrations-Agent-Sandbox) - The signer runs in its own namespace, and the agent's run still verifies after its Sandbox is deleted
+
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
 * [NeuVector](https://neuvector.com/) - Continuous network security
