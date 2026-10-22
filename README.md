@@ -183,6 +183,9 @@ A collection of container related security resources
 * Records AI agents' tool calls from outside the agent's container: a signer in a sidecar with its own uid, or a central service agents reach with their projected service-account tokens, allows, denies or holds each call for a person and signs every call and decision into a hash-chained log that verifies offline
 * [Tracekit with Kubernetes agent-sandbox](https://github.com/Cygnux-Labs/Tracekit/wiki/Integrations-Agent-Sandbox) - The signer runs in its own namespace, and the agent's run still verifies after its Sandbox is deleted
 
+### [Mudroom](https://github.com/Kernel-Hunter/mudroom)
+* Runs coding agents (Claude Code, Codex, Gemini CLI, Aider, opencode) in a Linux micro-VM or a Docker/Podman container on a copy-on-write clone of the project, with outbound traffic limited to an allowlist proxy and, in the VM, a firewall that blocks every other port on the host; the changes come back as a diff to review and apply
+
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
 * [NeuVector](https://neuvector.com/) - Continuous network security
