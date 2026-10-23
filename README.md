@@ -184,7 +184,8 @@ A collection of container related security resources
 * [Tracekit with Kubernetes agent-sandbox](https://github.com/Cygnux-Labs/Tracekit/wiki/Integrations-Agent-Sandbox) - The signer runs in its own namespace, and the agent's run still verifies after its Sandbox is deleted
 
 ### [Mudroom](https://github.com/Kernel-Hunter/mudroom)
-* Runs coding agents (Claude Code, Codex, Gemini CLI, Aider, opencode) in a Linux micro-VM or a Docker/Podman container on a copy-on-write clone of the project, with outbound traffic limited to an allowlist proxy and, in the VM, a firewall that blocks every other port on the host; the changes come back as a diff to review and apply
+* Experimental coding-agent sandbox using per-session Linux VMs via Apple's container on Apple-silicon Macs, or Docker/Podman containers (shared host kernel on Linux). Runs on project copies, using copy-on-write where supported, and offers diff review and selective apply.
+* Locked mode uses a destination-allowlist proxy; the Apple backend adds a guest firewall. Docker/Podman sessions share an internal network and unauthenticated proxy sidecars, allowing concurrent sessions to use each other's proxy policies. Credentials remain accessible to the agent and runtime, allowed destinations can receive project data, and open mode disables filtering.
 
 ### Commercial solutions
 * [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
