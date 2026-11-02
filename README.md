@@ -99,7 +99,7 @@ A collection of container related security resources
 
 ### [Draugr](https://github.com/draugr-dev/draugr)
 * Scans container images with Trivy (Grype opt-in) alongside dependency, secrets, SAST and IaC scanners, all configured in one YAML descriptor.
-* Ranks each finding P1 to P4 by severity and by the exposure and criticality declared for the component that ships the image. A CVE on CISA's KEV list or a malicious package goes straight to critical, and a high EPSS score raises a finding one band.
+* Ranks each finding P1 to P4 by severity and by the exposure and criticality declared for the component that ships the image. Signals turned on in the descriptor move the severity: a CVE on CISA's KEV list or a malicious package goes straight to critical, and a high EPSS score raises a finding one band.
 * Turns findings into actions grouped by the work: bump a dependency, wait for a release, rotate a credential and so on, each with the number of findings it clears.
 
 ### Commercial solutions
