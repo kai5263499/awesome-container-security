@@ -97,6 +97,9 @@ A collection of container related security resources
 ### [php2shell-check](https://github.com/hoehyeonlab/php-cve-2026-109618-check)
 * Read-only checker for PHP CVE-2026-109618/109619 (php2shell) that runs on the host and inside every running Docker container, finding vulnerable PHP that host package checks miss. CI-friendly exit codes.
 
+### [Draugr](https://github.com/draugr-dev/draugr)
+* Scans container images with Trivy (Grype opt-in) alongside dependency, secrets, SAST and IaC scanners, all configured in one YAML descriptor. Ranks each finding by the exposure and criticality declared for the component that ships the image, and checks it against CISA's KEV list, EPSS scores and OpenSSF's malicious-packages data.
+
 ### Commercial solutions
 * [Black Duck Software](https://www.blackducksoftware.com/)
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.com/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
