@@ -98,7 +98,9 @@ A collection of container related security resources
 * Read-only checker for PHP CVE-2026-109618/109619 (php2shell) that runs on the host and inside every running Docker container, finding vulnerable PHP that host package checks miss. CI-friendly exit codes.
 
 ### [Draugr](https://github.com/draugr-dev/draugr)
-* Scans container images with Trivy (Grype opt-in) alongside dependency, secrets, SAST and IaC scanners, all configured in one YAML descriptor. Ranks each finding by the exposure and criticality declared for the component that ships the image, and checks it against CISA's KEV list, EPSS scores and OpenSSF's malicious-packages data.
+* Scans container images with Trivy (Grype opt-in) alongside dependency, secrets, SAST and IaC scanners, all configured in one YAML descriptor.
+* Ranks each finding P1 to P4 by severity and by the exposure and criticality declared for the component that ships the image. A CVE on CISA's KEV list or a malicious package goes straight to critical, and a high EPSS score raises a finding one band.
+* Turns findings into actions grouped by the work: bump a dependency, wait for a release, rotate a credential and so on, each with the number of findings it clears.
 
 ### Commercial solutions
 * [Black Duck Software](https://www.blackducksoftware.com/)
