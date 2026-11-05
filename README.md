@@ -102,6 +102,11 @@ A collection of container related security resources
 * Ranks each finding P1 to P4 by severity and by the exposure and criticality declared for the component that ships the image. Signals turned on in the descriptor move the severity: a CVE on CISA's KEV list or a malicious package goes straight to critical, and a high EPSS score raises a finding one band.
 * Turns findings into actions grouped by the work: bump a dependency, wait for a release, rotate a credential and so on, each with the number of findings it clears.
 
+### [Stackurity](https://github.com/stackurity/stackurity)
+* Open-source (Apache-2.0), self-hosted software inventory and vulnerability management. Inventories container images from a registry reference with the bundled Syft (no Docker daemon needed), the images of running Docker containers through an opt-in host agent, and the images Kubernetes workloads run, by digest, through a read-only in-cluster reporter.
+* Matches components against OSV and distribution advisories, flags end-of-life OS and runtime versions, and prioritises findings using CISA KEV, EPSS and whether a workload is exposed outside the cluster.
+* Imports CycloneDX and SPDX SBOMs and OpenVEX or CycloneDX VEX, and recommends the version to upgrade to for each vulnerable component.
+
 ### Commercial solutions
 * [Black Duck Software](https://www.blackducksoftware.com/)
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.com/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
