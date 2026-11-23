@@ -112,6 +112,7 @@ A collection of container related security resources
 * [Tenable](https://www.tenable.com/products/tenable-io/container-security) - Includes [FlawCheck](https://www.theregister.com/2016/10/26/tenable_ate_flawcheck_for_devops_enhancement/)
 * [GrSecurity](https://grsecurity.net/features) - A collection of image hardening tools
 * [Aqua](https://www.aquasec.com/) - Full lifecycle container security management platform
+* [AppSecD](https://appsecd.com/?utm_source=awesome-container-security&utm_medium=directory) - Application security platform with Dockerfile hardening and image CVE scanning, plus Kubernetes RBAC, network policy and pod security context analysis, alongside SAST, DAST, SCA, secrets and IaC scanning
 
 ------------------------------------------------------------------------------------------
 
