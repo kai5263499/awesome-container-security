@@ -201,7 +201,7 @@ A collection of container related security resources
 * [StakRox](https://www.stackrox.com/) - Container security solution with adaptive threat protection
 * [NeuVector](https://neuvector.com/) - Continuous network security
 * [TwistLock]( https://www.paloaltonetworks.com/prisma/cloud) - Network activity profiling
-* [Sandscale](https://sandscale.dev/) - Hosted Firecracker microVM sandboxes for AI coding agents, with per-tool allow/ask/deny policies, approvals and an audit log
+* [Sandscale](https://sandscale.dev/) - Hosted Firecracker microVM sandboxes for AI coding agents, with policy controls, approvals and an audit log
 
 ------------------------------------------------------------------------------------------
 
